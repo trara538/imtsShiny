@@ -10,11 +10,11 @@ library(tidyr)
 library(shinymanager)
 
 # -------------------------------
-# USER CREDENTIALS (DEMO ONLY)
+# USER CREDENTIALS
 # -------------------------------
 credentials <- data.frame(
-  user = c("admin", "editor"),
-  password = c("admin123", "editor123"),
+  user = c("user"),
+  password = c("password"),
   stringsAsFactors = FALSE
 )
 
