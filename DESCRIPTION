@@ -2,11 +2,10 @@ Package: imtsShiny
 Title: Generate sdmx file from IMTS excel spreadsheet
 Version: 1.0
 Authors@R: 
-    person("Rara", "Soro", , "tuvuisoro@gmail.com", role = c("aut", "cre"),
+    person("Rara", "Soro", , "raras@spc.int", role = c("aut", "cre"),
            comment = c(ORCID = ""))
-Description: What the package does (one paragraph).
-License: `use_mit_license()`, `use_gpl3_license()` or friends to pick a
-    license
+Description: The package converts carefully formatted and organised excel file to a single SDMX file ready to be uploaded to .STAT.
+License: `No license'
 Encoding: UTF-8
 Roxygen: list(markdown = TRUE)
 RoxygenNote: 7.3.2
