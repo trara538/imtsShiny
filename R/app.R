@@ -7,7 +7,7 @@ library(shiny)
 library(readxl)
 library(dplyr)
 library(tidyr)
-library(shinymanager)
+#library(shinymanager)
 
 # -------------------------------
 # USER CREDENTIALS
