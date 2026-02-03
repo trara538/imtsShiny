@@ -1,14 +1,14 @@
 
-# imtsShiny
+# Transforming IMTS tables into SDMX tables
 
 <!-- badges: start -->
 <!-- badges: end -->
 
-The goal of imtsShiny is to ...
+The goal of imtsShiny package is to allow users to be able to generate International Merchandise Trade (IMTS) SDMX files out from published IMTS excel files. 
 
 ## Installation
 
-You can install the development version of imtsShiny like so:
+You can install the imtsShiny like so:
 
 ``` r
 # **************** How to install the package from R console ******************** #
