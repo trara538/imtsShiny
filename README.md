@@ -11,7 +11,16 @@ The goal of imtsShiny is to ...
 You can install the development version of imtsShiny like so:
 
 ``` r
-# FILL THIS IN! HOW CAN PEOPLE INSTALL YOUR DEV PACKAGE?
+# **************** How to install the package from R console ******************** #
+
+>install.packages("remotes")
+>library(remotes)
+>remotes::install_github("https://github.com/trara538/imtsShiny")
+
+# **************** How to run the imtshiny app from R console ******************** #
+>library(imtsShiny)
+>imtsShiny::run_app()
+
 ```
 
 ## Example
